@@ -4,7 +4,7 @@
  * Plugin Name:       Simple Posts Views Count
  * Plugin URI:        https://wp24horas.com.br
  * Description:       Plugin para Contagem de Posts no WordPress
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Asllan Maciel
