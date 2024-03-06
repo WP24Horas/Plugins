@@ -48,7 +48,7 @@
      $count_key = 'post_views_count';
      $count = get_post_meta($postID, $count_key, true);
      
-     echo '>>>'.$count.'<<<';
+     //echo '>>>'.$count.'<<<';
      
      if($count==''){
          
